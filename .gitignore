@@ -1,0 +1,22 @@
+# Your filled-in memory and setup. Never commit these.
+my-profile.md
+**/my-profile.md
+memory-filled.md
+setup-filled.md
+*.private.md
+*.personal.md
+
+# Mapping or anonymizer files used in sensitivity templates
+mapping.csv
+mapping.xlsx
+identity-map.*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.idea/
+.vscode/
+*.swp
+*.swo

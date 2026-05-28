@@ -1,0 +1,17 @@
+{
+  "name": "super-intelligent-AI-setup",
+  "version": "1.0.0",
+  "description": "Ten skills and two prompts that climb the Superintelligence Ladder from Level 1 (Asking) to Level 5 (Operating). Installable as a Claude plugin. Use freely. Replace placeholders with your own.",
+  "license": "MIT",
+  "keywords": [
+    "superintelligence",
+    "personal-ai",
+    "skills",
+    "agents",
+    "memory",
+    "quality-gate",
+    "board-panel",
+    "commentary"
+  ],
+  "homepage": "https://github.com/teemutuo/super-intelligent-AI-setup"
+}

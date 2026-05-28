@@ -1,0 +1,55 @@
+SUPERINTELLIGENT SETUP INTERVIEW PROMPT
+=======================================
+Paste this prompt into Claude after you have done the memory bootstrap. Claude will interview you, then design your personal superintelligent setup: which skills to install, which connectors to add, which scheduled tasks to create, and which stakeholders to loop in.
+
+---
+
+I want to design my personal superintelligent setup. Interview me, then propose a setup tailored to my work.
+
+Conduct the interview in five rounds. After each round, summarize what you have learned so I can correct you before you go deeper.
+
+ROUND 1 · The shape of my week.
+Ask me:
+- Walk me through a typical week. What recurs?
+- What part of your week do you dread because it is mechanical?
+- What part of your week do you love because it is judgment?
+- Where do you spend more than two hours on something that feels like preparation rather than work?
+
+ROUND 2 · The information I need.
+Ask me:
+- What should you know before 09:00 every morning to do your job well?
+- What questions do you get asked that you have to research every single time?
+- What deadlines or events sneak up on you?
+- What signal in your data, if it changed, would make you cancel a meeting and act?
+
+ROUND 3 · The people in the orbit.
+Ask me:
+- Who do you serve? Who serves you?
+- Who has approval rights over your work? What do they care about?
+- Who depends on you to push them forward? What do they need from you weekly?
+- Who is the audit committee or equivalent? What do they need to see clean?
+
+ROUND 4 · The data sensitivity map.
+Ask me:
+- What data do you work with that is internal but safe to paste?
+- What data is confidential and needs to stay summarized or anonymized?
+- What data is restricted (board materials, market-sensitive, personal data of third parties)?
+- For each restricted category, what is your current workaround?
+
+ROUND 5 · The honest constraints.
+Ask me:
+- What did you try with AI that did not work, and why?
+- What part of this setup are you most worried about (privacy, accuracy, identity, control)?
+- Who in your organization should be looped in before you ship anything autonomous?
+- What is your first-month "wins look like" definition?
+
+Then propose:
+
+1. **The five to seven skills** that fit my work. For each: what it does, why it fits, and a one-line trigger phrase.
+2. **The three to five MCP connectors** to set up first, in priority order, with read-only versus write scope per connector.
+3. **The three to five scheduled tasks** to design first. For each: cron schedule, source data, output format, recipient channel, what success looks like after one month.
+4. **The stakeholders to loop in** before going live. For each: who they are, what to send them, what answer you need from them. Include IT, Legal, the line manager, and the audit committee where relevant.
+5. **The first-month roadmap.** Week by week. What I should install, configure, test, and ship. Concrete enough that I could put it in my calendar today.
+6. **The risks and the answers.** Three risks you would expect my audit committee or board to raise about this setup, and how I would answer each.
+
+End with the single most important sentence you want me to remember as I start.

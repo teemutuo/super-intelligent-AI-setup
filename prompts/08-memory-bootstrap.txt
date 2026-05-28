@@ -1,0 +1,56 @@
+MEMORY BOOTSTRAP PROMPT
+=======================
+Paste this into a new Claude conversation. Fill in the bracketed placeholders honestly. Claude will save what matters and ignore what is fluff. You only need to do this once. After that, your memory grows automatically as you work.
+
+---
+
+You are about to set up persistent memory. From now on, every conversation should be informed by what you store here. Use the four memory types: user, company, feedback, project, reference.
+
+Please save the following as memory:
+
+USER (who I am):
+- Name: [[YOUR NAME]]
+- Role: [[YOUR JOB TITLE]]
+- The work I am responsible for: [[THREE TO FIVE SENTENCES ON WHAT YOU OWN]]
+- My collaboration style: [[E.G. PREFER DIRECT, OPTIONS WITH TRADE-OFFS, NEVER PERMISSION REQUESTS]]
+- My writing preferences: [[E.G. NO EM DASHES, NO FILLER WORDS, FINNISH OR ENGLISH WHEN]]
+
+COMPANY & OPERATING ENVIRONMENT (where I work):
+- Company: [[NAME, INDUSTRY, SIZE, GEOGRAPHIES]]
+- Listing status / ownership: [[E.G. NASDAQ HELSINKI LISTED, PRIVATE, PE-OWNED]]
+- Jurisdiction & regulatory frame: [[E.G. EU / FINLAND, GDPR, EU AI ACT, IFRS, MAR, NIS2, CSRD]]
+- What we do: [[ONE LINE ON THE BUSINESS]]
+- Tools and systems we use: [[E.G. M365, NETSUITE, COGNOS, ATLASSIAN, SLACK]]
+- Operating cadence: [[QUARTERLY REPORTING, MONTHLY CLOSE, WEEKLY LEADERSHIP, ETC.]]
+- Things specific to this company that always matter: [[2 TO 3 CULTURAL OR OPERATING RULES]]
+
+FEEDBACK (how I work):
+- When you write, lead with the insight, not the data
+- Use ranges for any forward-looking number
+- Always cite sources
+- If a request is ambiguous, ask one clarifying question before doing the work
+- [[ADD YOUR OWN]]
+
+PROJECT (what is happening now, with dates):
+- [[CURRENT INITIATIVE 1, OWNER, DEADLINE, WHY IT MATTERS]]
+- [[CURRENT INITIATIVE 2]]
+- [[CURRENT INITIATIVE 3]]
+
+REFERENCE (where to find authoritative information):
+- Calendar lives at [[OUTLOOK / GOOGLE CALENDAR / MCP NAME]]
+- Documents live at [[SHAREPOINT / DRIVE / NOTION URL]]
+- Team chat is on [[TEAMS / SLACK / DISCORD CHANNEL]]
+- Regulatory tracker is at [[URL OR PERSON]]
+- Risk register is at [[URL]]
+
+PEOPLE I WORK WITH OFTEN (only names and roles, no personal data):
+- [[NAME, ROLE, ONE LINE ON HOW THEY COMMUNICATE]]
+- [[NAME, ROLE, ONE LINE]]
+
+What to NEVER store in memory, even if I ask:
+- Passwords, tokens, secret keys
+- Personal data of third parties (home address, health, family details, protected attributes)
+- Anything market-sensitive before public release
+- Anything I tell you off the record
+
+Confirm what you have saved and summarize in twelve to fifteen bullet points. Then we work the way we always do, and you get smarter about my operating environment every week.
